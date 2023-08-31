@@ -1,5 +1,5 @@
 ---
-title: "Distributed Service With Go Notes"
+title: "\"Distributed Service With Go\" Notes"
 date: 2023-08-31T16:27:18+07:00
 draft: false
 ---
